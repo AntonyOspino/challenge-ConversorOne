@@ -27,7 +27,9 @@ Explora los archivos ConversorMoneda.class y ConversorTemperatura.class para ent
 Ejecuta la aplicación y sigue las instrucciones en la interfaz creada con 'JOptionPane' para realizar conversiones.
 
 Introduce los valores requeridos según el conversor elegido.
+
 Selecciona las opciones de moneda o unidades de temperatura.
+
 Recibe los resultados de manera clara y precisa.
 
 # Contribución
