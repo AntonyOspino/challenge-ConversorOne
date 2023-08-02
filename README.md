@@ -4,11 +4,15 @@
 Este proyecto te brinda la capacidad de realizar conversiones de moneda y temperatura de manera fácil y precisa. Implementado en Java, es una herramienta valiosa para cálculos de conversión en tus operaciones financieras y análisis de temperaturas.
 
 Características
-Conversor de Moneda: Transforma montos de dinero entre diferentes monedas. Aunque es importante mencionar que los valores de las monedas son estáticos y no están conectados a una API. Esto significa que los valores de moneda están insertados manualmente en el momento de la creación del proyecto y no reflejarán cambios en las tasas actuales.
 
-Conversor de Temperatura: Convierte temperaturas entre distintas escalas. Introduce la temperatura, elige las unidades de medida y obtén la equivalencia con precisión.
+Conversor de Moneda:
+Transforma montos de dinero entre diferentes monedas. Aunque es importante mencionar que los valores de las monedas son estáticos y no están conectados a una API. Esto significa que los valores de moneda están insertados manualmente en el momento de la creación del proyecto y no reflejarán cambios en las tasas actuales.
 
-Operaciones Consecutivas: Ambos conversores permiten realizar múltiples conversiones sin necesidad de reiniciar el programa.
+Conversor de Temperatura:
+Convierte temperaturas entre distintas escalas. Introduce la temperatura, elige las unidades de medida y obtén la equivalencia con precisión.
+
+Operaciones Consecutivas:
+Ambos conversores permiten realizar múltiples conversiones sin necesidad de reiniciar el programa.
 
 Instrucciones
 Clona este repositorio en tu máquina local.
