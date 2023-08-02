@@ -38,6 +38,8 @@ Recibe los resultados de manera clara y precisa.
 
 # Contacto
 
-Si tienes preguntas o sugerencias relacionadas con este proyecto, no dudes en contactarme a través de mi perfil de GitHub.
+Si tienes preguntas o sugerencias relacionadas con este proyecto, no dudes en contactarme a través de mi perfil de GitHub o atravéz de mi perfil de LinKedin que te proporciono aqui abajo.
+
+Perfil De LinKedin: https://www.linkedin.com/in/antony-ospino-polo/
 
 ¡Esperamos que estos conversores sean útiles en tus tareas de conversión de moneda y temperatura!
