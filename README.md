@@ -22,9 +22,13 @@ git clone https://github.com/AntonyOspino/challenge-ConversorOne.git
 
 Abre el proyecto en Eclipse u otro IDE compatible con Java.
 
-Explora los archivos ConversorMoneda.java y ConversorTemperatura.java para entender la lógica de los conversores.
+Explora los archivos ConversorMoneda.class y ConversorTemperatura.class para entender la lógica de los conversores.
 
-Ejecuta la aplicación y sigue las instrucciones en la consola para realizar conversiones.
+Ejecuta la aplicación y sigue las instrucciones en la interfaz creada con 'JOptionPane' para realizar conversiones.
+
+Introduce los valores requeridos según el conversor elegido.
+Selecciona las opciones de moneda o unidades de temperatura.
+Recibe los resultados de manera clara y precisa.
 
 # Contribución
 
